@@ -70,6 +70,8 @@ public class MainActivity extends ActionBarActivity {
             View rootView = inflater.inflate(R.layout.fragment_main, container, false);
 
             ArrayList<String> listForecast = new ArrayList<String>();
+            listForecast.add("mas nombres");
+            listForecast.add("en la lista");
             listForecast.add("asdfasdfasdf");
             listForecast.add("ffffdfdsdf");
             listForecast.add("werwerwperpewpr");
