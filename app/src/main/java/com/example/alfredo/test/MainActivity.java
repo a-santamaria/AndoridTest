@@ -72,6 +72,7 @@ public class MainActivity extends ActionBarActivity {
             ArrayList<String> listForecast = new ArrayList<String>();
             listForecast.add("mas nombres");
             listForecast.add("en la lista");
+            listForecast.add("otro");
             listForecast.add("asdfasdfasdf");
             listForecast.add("ffffdfdsdf");
             listForecast.add("werwerwperpewpr");
